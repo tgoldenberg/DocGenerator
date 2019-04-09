@@ -1,0 +1,7 @@
+{
+  "trailingCommas": {
+    "array": false,
+    "object": false,
+    "function": false
+  }
+}
